@@ -173,10 +173,10 @@ adjs\.php
 ^http://tbn\.ru/\.gif
 ^http://a\.lvt\.ru/
 ^http://www\.soccershop\.ru/button/
-^http://b\.abn\.com\.ua/iframe 
-^http://point\.sanskrit\.ru/ban 
+^http://b\.abn\.com\.ua/iframe
+^http://point\.sanskrit\.ru/ban
 ^http://advertise\.apollo\.lv/html\.ng/
-^http://link\.link\.ru/show 
+^http://link\.link\.ru/show
 ^http://engine\.rorer\.ru/request/
 ^http://top100-images\.rambler\.ru/top100/
 ^http://counter\.yadro\.ru/hit
@@ -203,3 +203,6 @@ adbureau\.net
 pics\.imho\.ru
 ^http://94\.103\.92\.145/images/
 ^http://b\.c[0-9]\.net\.ua/b/
+^http://77\.109\.85\.18/images/
+/images/[0-9][0-9][0-9][0-9][0-9][0-9][0-9]/[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/[0-9]\.gif
+^http://s[0-9]\.rotaban\.ru/
