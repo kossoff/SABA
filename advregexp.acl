@@ -2,6 +2,7 @@
 ^http://(adfarm|adserv|adstil|adsvr|adsys)
 /pagead(v|s)?[0-9]*/
 /ad(v|s)?[0-9]*/
+^http://ad(v|s)?[0-9]*\.
 ^http://(243|468|100|120)\.
 ^http://click\.
 ^http://clk\.
@@ -207,3 +208,4 @@ pics\.imho\.ru
 /images/[0-9][0-9][0-9][0-9][0-9][0-9][0-9]/[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/[0-9]\.gif
 ^http://s[0-9]\.rotaban\.ru/
 ^http://addx\.ru/
+^http://www.opennet.ru/img/
