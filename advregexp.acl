@@ -199,6 +199,7 @@ adjs\.php
 ^http://awaps\.yandex\.ru/
 ^http://an\.yandex\.ru/(system|resource)/context\.js
 ^http://pink\.habralab\.ru/cgi-bin/iframe/
+^http://tvoyarodoslovnaya\.com
 www\.tns-counter\.ru
 adbureau\.net
 pics\.imho\.ru
