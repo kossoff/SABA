@@ -212,3 +212,6 @@ pics\.imho\.ru
 ^http://www.opennet.ru/img/
 \.adfox\.ru
 ^http://a\.adwolf\.ru/
+/bnrs/
+^http://r2\.mail\.ru
+^http://server\.adeasy\.ru
